@@ -17,56 +17,56 @@
 * Achievements: Successfully developed a chatbot capable of delivering results with up to 95% accuracy.
 * Limitations: Insufficient attention and development on the chatbot's front-end interface.
 
-**A set of questions to evaluate the results**
+**A SET OF QUESTIONS TO EVALUATE THE RESULTS**
 1. Privacy Policy and User Rights
 
- Q1: What purposes does Presight use personal data for?
-
- Q2: How can I edit or update my personal information stored by Presight?
-
- Q3: Does Presight share personal data with third parties?
-
- Q4: How can I access the personal information that Presight holds about me?
+   Q1: What purposes does Presight use personal data for?
+  
+   Q2: How can I edit or update my personal information stored by Presight?
+  
+   Q3: Does Presight share personal data with third parties?
+  
+   Q4: How can I access the personal information that Presight holds about me?
 
 2. Data Security and Safety
 
- Q5: What measures does Presight take to ensure data security?
-
- Q6: Is my data encrypted during transmission and storage?
-
- Q7: What does Presight do in case of a data breach?
+   Q5: What measures does Presight take to ensure data security?
+  
+   Q6: Is my data encrypted during transmission and storage?
+  
+   Q7: What does Presight do in case of a data breach?
 
 3. Data Collection and Retention
 
- Q8: What types of data does Presight collect from users?
-
- Q9: How long does Presight retain my data after my account is deactivated?
-
- Q10: Is my data used to train AI or machine learning models?
+   Q8: What types of data does Presight collect from users?
+  
+   Q9: How long does Presight retain my data after my account is deactivated?
+  
+   Q10: Is my data used to train AI or machine learning models?
 
 4. Cookies and Third-Party Websites
 
- Q11: How does Presight use cookies on its website?
-
- Q12: Can I control the use of cookies on the Presight website?
-
- Q13: Is Presight responsible for privacy practices on third-party websites?
+   Q11: How does Presight use cookies on its website?
+  
+   Q12: Can I control the use of cookies on the Presight website?
+  
+   Q13: Is Presight responsible for privacy practices on third-party websites?
 
 5. Policy Updates and Changes
 
- Q14: How are updates to the Privacy Policy communicated to users?
-
- Q15: How can I know when Presight’s Privacy Policy has been updated?
+   Q14: How are updates to the Privacy Policy communicated to users?
+  
+   Q15: How can I know when Presight’s Privacy Policy has been updated?
 
 6. Contact and Support
 
- Q16: What email can I use to contact Presight about the Privacy Policy?
-
- Q17: How can I reach Presight if I have concerns about my personal data?
+   Q16: What email can I use to contact Presight about the Privacy Policy?
+  
+   Q17: How can I reach Presight if I have concerns about my personal data?
 
 7. User Responsibilities and Rights
 
- Q18: What responsibilities do users have in maintaining the accuracy of their personal data?
-
- Q19: Does Presight allow users to correct inaccurate data?
+   Q18: What responsibilities do users have in maintaining the accuracy of their personal data?
+  
+   Q19: Does Presight allow users to correct inaccurate data?
 
