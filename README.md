@@ -4,10 +4,11 @@ Exploring the development and architecture of chatbots, focusing on their functi
 # Members
 | **Name**| **Major**| **University**|
 |-|-|-|
-| Kieu Thi Ngoc Vui     | Data Science  | University of Science (VNUHCM) |
+| Huynh Ha Anh Thu      | Data Science  | University of Science (VNUHCM) |
 | Tran Gia Huy          | Data Science  | University of Science (VNUHCM) |
 | Mai Thi Kim Ngan      | Data Science  | University of Science (VNUHCM) |
-| Huynh Ha Anh Thu      | Data Science  | University of Science (VNUHCM) |
+| Kieu Thi Ngoc Vui     | Data Science  | University of Science (VNUHCM) |
+
 
 # Git Commit Message Rule
 After performing the **`git add .`** command, the **`git commit`** message should follow this structure:
